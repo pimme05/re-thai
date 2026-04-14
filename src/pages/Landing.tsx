@@ -272,7 +272,7 @@ export default function Landing() {
               <Button variant="secondary" size="lg">Join as a Student</Button>
             </Link>
             <Link to="/company">
-              <Button variant="outline" size="lg" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10">
+              <Button variant="outline" size="lg" className="bg-transparent border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10">
                 Become a Partner
               </Button>
             </Link>
