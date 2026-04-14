@@ -44,7 +44,7 @@ export function DashboardLayout({
       <header className="h-14 border-b bg-card flex items-center px-4 gap-4 shrink-0 sticky top-0 z-50">
         <Link to="/" className="flex items-center gap-2 shrink-0">
           <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
-            <span className="text-xs font-bold text-primary-foreground">A</span>
+            <span className="text-xs font-bold text-primary-foreground">S</span>
           </div>
           <div className="hidden md:block">
             <span className="font-bold text-sm">SkillForge</span>

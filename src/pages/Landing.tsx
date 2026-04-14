@@ -20,11 +20,11 @@ export default function Landing() {
         <div className="max-w-7xl mx-auto px-6 h-14 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
-              <span className="text-xs font-bold text-primary-foreground">A</span>
+              <span className="text-xs font-bold text-primary-foreground">S</span>
             </div>
-            <span className="font-bold">AETHER</span>
+            <span className="font-bold">SkillForge</span>
             <span className="text-[10px] text-muted-foreground uppercase tracking-wider hidden sm:inline">
-              Semicon & Advanced Electronics
+              Workforce for Next-Gen Industries
             </span>
           </div>
           <div className="hidden md:flex flex-1 max-w-md mx-6">
@@ -287,7 +287,7 @@ export default function Landing() {
             <div>
               <div className="flex items-center gap-2 mb-3">
                 <div className="h-7 w-7 rounded-lg bg-primary flex items-center justify-center">
-                  <span className="text-[10px] font-bold text-primary-foreground">A</span>
+                  <span className="text-[10px] font-bold text-primary-foreground">S</span>
                 </div>
                 <span className="font-bold">SkillForge</span>
               </div>

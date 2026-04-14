@@ -75,7 +75,7 @@ export function AppSidebar() {
       <SidebarHeader className="p-4">
         <NavLink to="/" className="flex items-center gap-2">
           <div className="h-8 w-8 rounded-lg gradient-hero flex items-center justify-center">
-            <span className="text-sm font-bold text-primary-foreground">A</span>
+            <span className="text-sm font-bold text-primary-foreground">S</span>
           </div>
           {!collapsed && (
             <span className="text-lg font-bold tracking-tight text-sidebar-foreground">
