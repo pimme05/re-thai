@@ -49,7 +49,7 @@ export function DashboardLayout({
           <div className="hidden md:block">
             <span className="font-bold text-sm">AETHER</span>
             <span className="text-[10px] text-muted-foreground ml-2 uppercase tracking-wider">
-              Semicon & Advanced Electronics
+              Workforce for Next-Gen Industries
             </span>
           </div>
         </Link>

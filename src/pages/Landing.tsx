@@ -24,7 +24,7 @@ export default function Landing() {
             </div>
             <span className="font-bold">AETHER</span>
             <span className="text-[10px] text-muted-foreground uppercase tracking-wider hidden sm:inline">
-              Semicon & Advanced Electronics
+              Workforce for Next-Gen Industries
             </span>
           </div>
           <div className="hidden md:flex flex-1 max-w-md mx-6">
@@ -296,7 +296,7 @@ export default function Landing() {
                 <span className="font-bold">AETHER</span>
               </div>
               <p className="text-xs text-muted-foreground leading-relaxed">
-                Bridging the gap between university learning and industry demand in Thailand's semiconductor sector.
+                Upgrading existing industries and preparing a workforce for the next-gen industries in Thailand.
               </p>
             </div>
             <div>

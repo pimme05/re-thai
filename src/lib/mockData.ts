@@ -46,7 +46,7 @@ export const simulations = [
     company: "TSMC",
     role: "Introduction to CMOS Fabrication",
     industry: "Semiconductor",
-    skills: ["Semicon", "Fab", "Cleanroom"],
+    skills: ["Next-Gen Manufacturing", "Fab", "Cleanroom"],
     duration: "8 Hours",
     difficulty: "Beginner",
     description: "Learn the fundamentals of CMOS fabrication processes including lithography, etching, and deposition in a simulated cleanroom environment.",
@@ -87,7 +87,7 @@ export const simulations = [
 
 export const skillTags = [
   "Hardware", "PCB", "Power", "ASIC", "Verification", "VLSI",
-  "C++", "RTOS", "Embedded", "Semicon", "Fab", "Cleanroom",
+  "C++", "RTOS", "Embedded", "Next-Gen Manufacturing", "Fab", "Cleanroom",
   "Analog", "IC Design", "FPGA", "AI", "Digital",
 ];
 
