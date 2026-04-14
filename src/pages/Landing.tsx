@@ -24,7 +24,7 @@ export default function Landing() {
             </div>
             <span className="font-bold">AETHER</span>
             <span className="text-[10px] text-muted-foreground uppercase tracking-wider hidden sm:inline">
-              Workforce for Next-Gen Industries
+              Semicon & Advanced Electronics
             </span>
           </div>
           <div className="hidden md:flex flex-1 max-w-md mx-6">
@@ -262,7 +262,7 @@ export default function Landing() {
       <section className="py-16 bg-primary">
         <div className="max-w-3xl mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold text-primary-foreground mb-3">
-            Ready to accelerate Thailand's electronics industry?
+            Ready to accelerate Thailand's industry?
           </h2>
           <p className="text-primary-foreground/80 mb-6">
             Join the pilot program today as a student or a corporate partner and help build the workforce of tomorrow.
@@ -272,11 +272,7 @@ export default function Landing() {
               <Button variant="secondary" size="lg">Join as a Student</Button>
             </Link>
             <Link to="/company">
-              <Button
-                variant="outline"
-                size="lg"
-                className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
-              >
+              <Button variant="outline" size="lg" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10">
                 Become a Partner
               </Button>
             </Link>
