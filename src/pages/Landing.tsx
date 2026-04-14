@@ -231,7 +231,7 @@ export default function Landing() {
                 role: "Electronics Engineering Student, CU",
               },
               {
-                quote: "AETHER allowed us to identify students with the specific technical troubleshooting skills we need, reducing our training time by 40%.",
+                quote: "SkillForge allowed us to identify students with the specific technical troubleshooting skills we need, reducing our training time by 40%.",
                 name: "Somchai P.",
                 role: "Engineering Manager, ThaiSemi",
               },
@@ -289,7 +289,7 @@ export default function Landing() {
                 <div className="h-7 w-7 rounded-lg bg-primary flex items-center justify-center">
                   <span className="text-[10px] font-bold text-primary-foreground">A</span>
                 </div>
-                <span className="font-bold">AETHER</span>
+                <span className="font-bold">SkillForge</span>
               </div>
               <p className="text-xs text-muted-foreground leading-relaxed">
                 Upgrading existing industries and preparing a workforce for the next-gen industries in Thailand.
@@ -320,7 +320,7 @@ export default function Landing() {
             </div>
           </div>
           <div className="border-t pt-6 flex items-center justify-between text-xs text-muted-foreground">
-            <span>© 2024 AETHER. All rights reserved. Strategic initiative for National Workforce Development.</span>
+            <span>© 2026 SkillForge</span>
             <div className="flex gap-4">
               <span>Privacy Policy</span>
               <span>Terms of Service</span>
