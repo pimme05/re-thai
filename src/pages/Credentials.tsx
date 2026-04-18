@@ -71,7 +71,7 @@ export default function Credentials() {
               <p className="text-sm text-muted-foreground leading-relaxed mb-4">
                 The <strong className="text-foreground">Advanced PCB Signal Integrity Specialist</strong> micro-credential
                 verifies that the earner has mastered complex signal integrity issues inherent in modern high-speed digital designs.
-                Through 40+ hours of simulated lab work in the SkillForge Immersive Workspace, the student completed tasks involving
+                Through 40+ hours of simulated lab work in the AETHER Immersive Workspace, the student completed tasks involving
                 crosstalk mitigation, PDN analysis, and impedance-controlled routing for high-density interconnects.
               </p>
               <p className="text-sm text-muted-foreground leading-relaxed">
@@ -160,7 +160,7 @@ export default function Credentials() {
                 ))}
               </div>
               <p className="text-[10px] text-primary-foreground/60 mt-3">
-                ⏱ This unlock expires in <strong>14 days</strong>. Interviews are conducted through the SkillForge Priority Pipeline.
+                ⏱ This unlock expires in <strong>14 days</strong>. Interviews are conducted through the AETHER Priority Pipeline.
               </p>
             </div>
 

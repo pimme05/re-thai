@@ -1,6 +1,6 @@
-# SkillForge — Upgrading Existing Industries and Preparing a Workforce for the Next-Gen Industries
+# AETHER — Upgrading Existing Industries and Preparing a Workforce for the Next-Gen Industries
 
-SkillForge is a web platform dedicated to upgrading existing industries and preparing a workforce for the next-gen industries in Thailand. It connects university students, companies, and administrators through learning simulations, workforce analytics, industry partner onboarding, and verified credentials.
+AETHER is a web platform dedicated to upgrading existing industries and preparing a workforce for the next-gen industries in Thailand. It connects university students, companies, and administrators through learning simulations, workforce analytics, industry partner onboarding, and verified credentials.
 
 ## Overview
 

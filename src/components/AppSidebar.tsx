@@ -79,7 +79,7 @@ export function AppSidebar() {
           </div>
           {!collapsed && (
             <span className="text-lg font-bold tracking-tight text-sidebar-foreground">
-              SkillForge
+              AETHER
             </span>
           )}
         </NavLink>

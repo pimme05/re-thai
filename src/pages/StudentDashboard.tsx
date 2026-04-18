@@ -126,7 +126,7 @@ export default function StudentDashboard() {
             {/* Timeline */}
             <div className="bg-card rounded-xl border p-6">
               <h2 className="font-semibold mb-4">Learning Timeline</h2>
-              <p className="text-xs text-muted-foreground mb-4">Your journey through the SkillForge pilot.</p>
+              <p className="text-xs text-muted-foreground mb-4">Your journey through the AETHER pilot.</p>
               <div className="space-y-4">
                 {p.timeline.map((t, i) => (
                   <div key={i} className="flex gap-3">

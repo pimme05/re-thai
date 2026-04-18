@@ -47,7 +47,7 @@ export function DashboardLayout({
             <span className="text-xs font-bold text-primary-foreground">S</span>
           </div>
           <div className="hidden md:block">
-            <span className="font-bold text-sm">SkillForge</span>
+            <span className="font-bold text-sm">AETHER</span>
             <span className="text-[10px] text-muted-foreground ml-2 uppercase tracking-wider">
               Workforce for Next-Gen Industries
             </span>
